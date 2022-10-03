@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelEscrig)](https://github.com/RaphaelEscrig/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RaphaelEscrig)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelEscrig&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
