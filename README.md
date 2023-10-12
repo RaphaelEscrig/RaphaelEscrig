@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m working at Newgo (CTO) and Beelly (Lead Developper)
-- 🌱 I’m learning how to create a clean monorepo (with turborepo) and migrate my existings apps into the Next.js 13.4 new router.
+- 🌱 I’m learning how to create a clean monorepo (Turborepo) and migrate my existings apps into the Next.js 13.4 new router.
 - 📫 You can reach me directly on [LinkedIn](www.linkedin.com/in/raphael-escrig)
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-seven-29.vercel.app/api?username=RaphaelEscrig&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
