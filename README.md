@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RaphaelEscrig)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-- 🔭 I'm the co-founder of Newgo and a lead developper at Beelly
+- 🔭 I'm the co-founder of [Newgo](https://newgo.io) and a lead developper at [Linkup](https://linkup.so)
 - 🧠 I try to apply as many concepts as possible about clean code and hexagonal architecture based on the projects needs
-- 🌱 I'm passionate about web development. I want to deep dive into this domain and learn it works and how the libraries or frameworks I use are coded.
+- 🌱 I'm passionate about web development, apis and ai agents. I want to deep dive into this domain and learn it works and how the libraries or frameworks I use are coded.
 - 📫 You can reach me directly on [LinkedIn](www.linkedin.com/in/raphael-escrig)
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-seven-29.vercel.app/api?username=RaphaelEscrig&count_private=true&show_icons=true&theme=algolia&show=pr_merged,reviews&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
