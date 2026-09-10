@@ -2,7 +2,7 @@
 
 AI agents, MCP, Full-stack, Web products, APIs.
 
-I build systems that survive production: clear architecture, readable code, technical choices driven by the problem — not the trend.
+I build systems that survive production: clear architecture, readable code, technical choices driven by the problem.
 
 **Right now**
 - Head of AI at [SPN°](https://www.spn-agency.com/)
@@ -10,6 +10,7 @@ I build systems that survive production: clear architecture, readable code, tech
 **Previously**
 - AI agent developer at [Pinpo](https://www.pinpo.ai)
 - Full-stack developer at [Linkup](https://www.linkup.so)
+- Frontend developer at [OKP4 – Open Knowledge Protocol For](https://github.com/okp4)
 - Co-founder & CTO at Newgo (shut down)
 
 ---
