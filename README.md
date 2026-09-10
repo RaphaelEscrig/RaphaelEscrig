@@ -1,29 +1,27 @@
-### Hi there 👋
+# Raphaël Escrig
 
-<!--
-**RaphaelEscrig/RaphaelEscrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI agents, MCP, Full-stack, Web products, APIs.
 
-Here are some ideas to get you started:
+I build systems that survive production: clear architecture, readable code, technical choices driven by the problem — not the trend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Right now**
+- Head of AI at [SPN°](https://www.spn-agency.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelEscrig)](https://github.com/RaphaelEscrig/github-readme-stats)
+**Previously**
+- AI agent developer at [Pinpo](https://www.pinpo.ai)
+- Full-stack developer at [Linkup](https://www.linkup.so)
+- Co-founder & CTO at Newgo (shut down)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RaphaelEscrig)](https://github.com/anuraghazra/github-readme-stats)
--->
+---
 
-- 🔭 I'm the co-founder of [Newgo](https://newgo.io) and a developper at [Pinpo](https://pinpo.ai)
-- 🧠 I try to apply as many concepts as possible about clean code and hexagonal architecture based on the projects needs
-- 🌱 I'm passionate about web development, apis and ai agents. I want to deep dive into this domain and learn it works and how the libraries or frameworks I use are coded.
-- 📫 You can reach me directly on [LinkedIn](www.linkedin.com/in/raphael-escrig)
+## What I actually do
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-seven-29.vercel.app/api?username=RaphaelEscrig&count_private=true&show_icons=true&theme=algolia&show=pr_merged,reviews&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+- AI agents and LLM integrations (Gemini, OpenAI, Anthropic, Mistral): chat, recommendations, generation, qualification
+- Complex multi-step agents on messy, high-volume data — especially programmatic marketing: campaign structure, inventory, targeting, creatives, performance. Not a chatbot with a system prompt.
+- RAG over large, heterogeneous sources (docs, APIs, logs, campaign / media data), with retrieval that has to be good enough to act on, not just to cite
+- Agent protocols: MCP, SDKs, tooling so other systems can plug into your capabilities
+- Search / scraping / extraction in service of an LLM
+- End-to-end full-stack products (frontend, API, data, billing, playgrounds, observability)
+- Codebases meant to last: hexagonal when it pays off, pragmatic when extra layers don't
 
-<a href="https://app.daily.dev/RaphaelEscrig"><img src="https://api.daily.dev/devcards/c57e20851d364f89a3b156d22f0878db.png?r=l0e" width="400" alt="Raphael's Dev Card"/></a>
+Core stack: **TypeScript · Next.js · Nest.js · React · PostgreSQL / Drizzle · Node**
